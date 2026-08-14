@@ -1,22 +1,13 @@
 # Claude Parchment Theme — 一款 Claude 风格的 dsh插件
 
+[English](README.en.md) · [中文](README.md)
+
 > **dsh插件**（DeepSeek Harness Plugin）· 为 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) WebUI 打造
 > 的 Anthropic Claude 风格主题。设计参考：Claude（Anthropic）设计系统 —— 暖羊皮纸画布、
 > Terracotta 品牌色、衬线标题、黄褐调中性灰、环式阴影哲学。
 
 ![style](https://img.shields.io/badge/style-Claude%20Parchment-c96442)
 ![license](https://img.shields.io/badge/license-MIT-green)
-
----
-
-## 🌐 其他语言版本 / Languages
-
-本仓库为 dsh插件 提供中英双语 README，主 README 为中文版，并引入副 README（英文版）：
-
-- **中文版（主）**：`README.md` — 当前页面，完整的插件介绍、安装与自定义指南
-- **English（副）**：[`README.en.md`](README.en.md) — English version, a full translation of this document
-
-> 英文版与中文版内容一一对应；两个文件顶部均有语言切换徽章，可互相跳转。
 
 ---
 

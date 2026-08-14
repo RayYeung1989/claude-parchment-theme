@@ -1,11 +1,12 @@
 # Claude Parchment Theme — A Claude-Style DSH Plugin
 
+[中文](README.md) · [English](README.en.md)
+
 > A **DSH plugin** (DeepSeek Harness Plugin) that gives the
 > [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) WebUI an
 > Anthropic Claude-inspired visual language: warm parchment canvas, Terracotta brand
 > color, serif headlines, yellow-brown-tinted neutrals, and ring-shadow philosophy.
 
-[![中文](https://img.shields.io/badge/readme-中文-red)](README.md)
 ![style](https://img.shields.io/badge/style-Claude%20Parchment-c96442)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
