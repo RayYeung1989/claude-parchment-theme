@@ -1,7 +1,7 @@
 {
   "name": "@dsh-local/claude-parchment-theme",
   "version": "1.0.0",
-  "description": "Claude Parchment 主题：为 DeepSeek Harness WebUI 打造的 Anthropic Claude 风格主题插件 —— 暖羊皮纸色板、Terracotta 品牌色、衬线标题、暖调中性灰，覆盖 DSW 全部主题 token",
+  "description": "一款 Claude 风格的 dsh插件：为 DeepSeek Harness WebUI 打造的 Anthropic Claude 风格主题 —— 暖羊皮纸色板、Terracotta 品牌色、衬线标题、暖调中性灰，覆盖 DSW 全部主题 token",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -22,6 +22,8 @@
     }
   },
   "keywords": [
+    "dsh插件",
+    "dsh-plugin",
     "dsh",
     "deepseek-harness",
     "theme",
